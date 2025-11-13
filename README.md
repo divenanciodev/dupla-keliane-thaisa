@@ -53,8 +53,6 @@ Dentro do Vs Code a primeira coisa a se fazer é importar a biblioteca easygui p
 ### Entendendo os Limites do Programa
 ![Imagem](https://github.com/divenanciodev/dupla-keliane-thaisa/blob/main/resolu%C3%A7%C3%A3o_teclado/3%C2%AAfase_2021/Explica%C3%A7%C3%A3oProblema/5.png?raw=true)
 
-### Entradas do Código 
-![Imagem](https://github.com/divenanciodev/dupla-keliane-thaisa/blob/main/resolu%C3%A7%C3%A3o_teclado/3%C2%AAfase_2021/Explica%C3%A7%C3%A3oProblema/6.png?raw=true)
 
 ### Entradas do Código e Modelo Visual
 ![Imagem](https://github.com/divenanciodev/dupla-keliane-thaisa/blob/main/resolu%C3%A7%C3%A3o_teclado/3%C2%AAfase_2021/Explica%C3%A7%C3%A3oProblema/7.png?raw=true)
